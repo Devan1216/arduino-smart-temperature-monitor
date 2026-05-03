@@ -11,9 +11,9 @@ This project is an Arduino-based temperature monitoring system using a DHT11 sen
 - Celsius to Fahrenheit conversion
 - LCD display output (16x2)
 - LED indicators for environment status:
-  - 🔴 Hot condition
+  - 🔴 Hot condition (> 75 degrees F)
   - 🟢 Normal condition
-  - 🔴 Cold condition
+  - 🔴 Cold condition (< 65 degrees F)
 - Simple embedded system logic using Arduino
 
 ---
