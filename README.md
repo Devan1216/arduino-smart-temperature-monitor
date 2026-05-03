@@ -69,13 +69,6 @@ This project is an Arduino-based temperature monitoring system using a DHT11 sen
 ## Future Improvements
 - Add buttons to switch display modes
 - Add buzzer alerts for extreme temperatures
-
----
-
-## Project Preview
-<img width="1170" height="1566" alt="IMG_2003" src="https://github.com/user-attachments/assets/bda68053-f6df-42b9-b6c4-46c2b4e33193" />
-<img width="1170" height="1520" alt="IMG_2001" src="https://github.com/user-attachments/assets/c6fd6568-dcfb-45ff-b75a-251dbb70e7f1" />
-
 ---
 
 ## Author
