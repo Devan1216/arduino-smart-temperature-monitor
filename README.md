@@ -78,10 +78,5 @@ This project is an Arduino-based temperature monitoring system using a DHT11 sen
 
 ---
 
-## 🧑‍💻 Author
-Created by [Your Name]
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
+## Author
+Created by Devan Doster
